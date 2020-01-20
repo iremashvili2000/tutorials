@@ -21,7 +21,7 @@ public class ReactFast {
 		long rectionTime=stopTime-startTime;
 		System.out.println(rectionTime+"ms");
 		
-		//C:\Users\admin\eclipse-workspace\Reaction Timer
+		
 		
 	}
 
